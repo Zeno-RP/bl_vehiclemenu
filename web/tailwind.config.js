@@ -20,7 +20,7 @@ export default {
         colors: {
             'primary': '#2c2c2c',
             'secondary': 'rgba(0,0,0,0.5)',
-            'accent': '#8685ef',
+            'accent': '#00FFFF',
 
             'txt-primary': '#faf7ff',
             'txt-secondary': '#2b2b2b',
